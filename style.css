@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   display: flex;
+   padding: 3rem;
+   justify-content: space-between;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+.logo{
+    display: flex;
+}
+main{
+    text-align: center;
+}
+a {
+  text-decoration: none; 
+  color: inherit;         
+}
